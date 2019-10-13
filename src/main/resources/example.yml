@@ -1,0 +1,36 @@
+# this is comment
+
+name : Shiva
+
+names:
+  - John
+  - Paul
+  - Amigo
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: Some publishing house
+
+truth: yes
+
+another_truth: True
+
+more_truth: True
+
+false: no #False,false,No
+
+string_val: "This is it's quote "
+
+colon:string: "some things: one two three"
+
+include_new_lines: |
+  lsnfdlsdf
+  asflksdlf
+  sdjfsld skdjf
+
+ignore_new_lines: >
+  this is just
+  one long
+  string
